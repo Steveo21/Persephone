@@ -4,7 +4,7 @@ A simple PoC for automating shellcode patching with Python! Engineered to work h
 ![image](https://github.com/user-attachments/assets/d4958573-3ea4-4972-b5b1-f19bc2fdc786)
 
 ### Lore ###
-Persephone is a mythological Goddess who is the daughter of Zeus in Greek Mythology. Eventually, she became Hades' partner and Queen of the underworld. Thus, as is the relationship between Hades and Persephone closely intertwined, so is the usage of Persephone.py alongside the Hades Scanner to perform shellcode patching!
+Persephone is the daughter of Zeus in Greek Mythology. Eventually, she became Hades' partner and Queen of the underworld. Thus, as is the relationship between Hades and Persephone closely intertwined, so is the usage of Persephone.py alongside the Hades Scanner to perform shellcode patching!
 
 ### Installation ###
 cd /path/to/install_dir
