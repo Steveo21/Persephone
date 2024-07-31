@@ -8,6 +8,7 @@ Persephone is the daughter of Zeus in Greek Mythology. Eventually, she became Ha
 
 ### Installation ###
 cd /path/to/install_dir
+
 git clone --recursive https://https://github.com/Steveo21/Persephone
 
 ### Usage ###
